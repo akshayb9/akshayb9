@@ -1,4 +1,4 @@
-Hello! I'm Akshay Nair, an aspiring Data professional. A Masters graduate from UIC with major in Business Analytics and a Bachelors in Computer Science from Savitribai Phule Pune University.
+Hello! I'm Akshay Barapatre, an aspiring Data professional. A Masters graduate from UIC with major in Business Analytics and a Bachelors in Computer Science from Savitribai Phule Pune University.
 
 Driven by a fascination for the synergy between business acumen and data science, I leverage analytical insights to aide informed strategic decisions and drive innovation in the dynamic landscape of business analytics. Interested in roles like:
 
