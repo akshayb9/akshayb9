@@ -28,6 +28,7 @@ Here are few Methodologies that I followed during my work tenure:
 🌱 Always eager to learn and stay updated with the latest in Machine Leanring/ Artificial Technologies. Currently diving into Gen AI and LLM.
 
 💻 Technical Skills:
+
 Data Management: Oracle SQL Server, MySQL, MS SQL Server, PostgreSQL
 Programming: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn), R for Data Science
 Tools: MS-Excel (Formulas, Pivot Tables), Tableau, Alteryx, Power BI, Jira
@@ -37,6 +38,7 @@ Cloud Tech: Azure (Data Factory, Data Lake, Synapse Analytics, Databricks), A/B 
 Certifications: MS Azure Data Scientist Associate, Alteryx Designer Core, Predictive Analytics for Business Nanodegree
 
 🎓 Education:
+
 Master of Science in Business Analytics & Data Science, University of Illinois Chicago
 Bachelor of Engineering in Computer Science & Engineering, Nagpur University
 
@@ -61,11 +63,6 @@ Ensured data integrity through rigorous quality assurance for agile, data-driven
 Credit Risk Analysis: Performed EDA and built a predictive model with 68% accuracy.
 Credit Card Anomalies Detection: Investigated imbalanced credit card data, built an ensemble model (SMOTE, XGBoost) involving autoencoder for dimensionality reduction and feature extraction, achieving an AUC of 0.92 and F1 score of 0.83.
 
-💬 Let's connect! Feel free to reach out for networking, discussions, code reviews. 
+💬 Let's connect! Feel free to reach out for networking, discussions, code reviews and let's explore the possibilities together!
 
 Thank you for stopping by! 🌟
-
-
-CLOSING:
-
-In both my personal and professional journey, I am constantly seeking opportunities to learn and grow. I look forward to connecting with individuals who share a passion for finding insights from Data to make informed business decisions. Feel free to reach out, and let's explore the possibilities together!
