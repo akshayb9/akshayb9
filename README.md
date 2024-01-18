@@ -40,6 +40,7 @@ Certifications: MS Azure Data Scientist Associate, Alteryx Designer Core, Predic
 🎓 Education:
 
 Master of Science in Business Analytics & Data Science, University of Illinois Chicago
+
 Bachelor of Engineering in Computer Science & Engineering, Nagpur University
 
 🛠️ Professional Experience:
@@ -61,6 +62,7 @@ Ensured data integrity through rigorous quality assurance for agile, data-driven
 🚀 Projects:
 
 Credit Risk Analysis: Performed EDA and built a predictive model with 68% accuracy.
+
 Credit Card Anomalies Detection: Investigated imbalanced credit card data, built an ensemble model (SMOTE, XGBoost) involving autoencoder for dimensionality reduction and feature extraction, achieving an AUC of 0.92 and F1 score of 0.83.
 
 💬 Let's connect! Feel free to reach out for networking, discussions, code reviews and let's explore the possibilities together!
