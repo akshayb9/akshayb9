@@ -4,7 +4,7 @@
 
 I recently completed my Master's in Business Analytics from the University of Illinois at Chicago.
 
-Driven by a strong interest in combining business understanding with data science, I use analytical insights to help make smart strategic decisions and foster innovation in the field of business analytics. I'm excited about roles such as:
+Motivated by a deep passion for merging business acumen with the capabilities of data science, I harness analytical insights to inform intelligent strategic decisions and ignite innovation within the realm of business analytics. I am eagerly drawn to roles that offer opportunities to apply this skill set, contributing to the dynamic landscape where business understanding and data-driven insights converge. I'm excited about roles such as:
 
 1) Data Analyst 
 2) Data Scientist 
