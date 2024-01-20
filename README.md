@@ -30,11 +30,17 @@ Here are few Methodologies that I followed during my work tenure:
 💻 Technical Skills:
 
 Data Management: Oracle SQL Server, MySQL, MS SQL Server, PostgreSQL
+
 Programming: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn), R for Data Science
+
 Tools: MS-Excel (Formulas, Pivot Tables), Tableau, Alteryx, Power BI, Jira
+
 Data Techniques: Insights, Modelling, Management, Visualization, Transformation, Preparation, Manipulation, Cleaning, Mining
+
 Machine Learning: Feature engineering, Classification, Regression, Decision Tree, Random Forest, Boosted Trees (AdaBoost, XGBoost)
+
 Cloud Tech: Azure (Data Factory, Data Lake, Synapse Analytics, Databricks), A/B Testing (Randomized Design, Matched Pair Design)
+
 Certifications: MS Azure Data Scientist Associate, Alteryx Designer Core, Predictive Analytics for Business Nanodegree
 
 🎓 Education:
