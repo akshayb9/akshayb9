@@ -2,7 +2,7 @@
 
 🚀 Experienced Data Science Analyst | 📊 Expert in Python, SQL, Alteryx, Tableau | 🤖 Machine Learning Enthusiast | Azure technology
 
-I recently completed my Master's in Business Analytics from the University of Illinois at Chicago.
+I recently completed my Master's in Business Analytics from the University of Illinois at Chicago in Dec 2023.
 
 Motivated by a deep passion for merging business acumen with the capabilities of data science, I harness analytical insights to inform intelligent strategic decisions and ignite innovation within the realm of business analytics. I am eagerly drawn to roles that offer opportunities to apply this skill set, contributing to the dynamic landscape where business understanding and data-driven insights converge. I'm excited about roles such as:
 
