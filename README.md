@@ -1,16 +1,13 @@
 👋 Hello! I'm Akshay Barapatre, 
 
-🚀 Experienced Data Science Analyst | 📊 Expert in Python, SQL, Alteryx, Tableau | 🤖 Machine Learning Enthusiast | Azure technology
+🚀 Experienced Data Scientist | 🤖 Machine Learning, NLP and Gen AI Enthusiast | 📊 Expert in Python, SQL, Pyspark, Databricks, Azure, Alteryx, Tableau
 
 I recently completed my Master's in Business Analytics from the University of Illinois at Chicago in Dec 2023.
 
-Motivated by a deep passion for merging business acumen with the capabilities of data science, I harness analytical insights to inform intelligent strategic decisions and ignite innovation within the realm of business analytics. I am eagerly drawn to roles that offer opportunities to apply this skill set, contributing to the dynamic landscape where business understanding and data-driven insights converge. I'm excited about roles such as:
+Motivated by a deep passion for merging business acumen with the capabilities of data science, I harness analytical insights to inform intelligent strategic decisions and ignite innovation within the realm of big data analytics. I am eagerly drawn to roles that offer opportunities to apply this skill set, contributing to the dynamic landscape where business understanding and data-driven insights converge. I'm excited about roles such as:
 
-1) Data Analyst 
-2) Data Scientist 
-3) Business Analyst 
-4) Business Intelligence Analyst
-5) Machine Learning Engineer
+1) Data Scientist  
+2) Machine Learning Engineer
 
 🔭 In my career, I have worked on several projects across various domains like Retail, Finance, Automobile, Healthcare where I was involved in solving a challenging problems using Machine Learning, visualization and statistical analysis to aide informed strategic decisions and drive innovation. 
 During all projects I had the opportunity to work and gain experience on tools like SQL, Python, Tableau, Power BI. 
