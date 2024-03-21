@@ -26,17 +26,19 @@ Here are few Methodologies that I followed during my work tenure:
 
 💻 Technical Skills:
 
-Data Management: Oracle SQL Server, MySQL, MS SQL Server, PostgreSQL
+Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow), R for Data Science
 
-Programming: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn), R for Data Science
+Deep Learning, NLP & Generative AI: ANN, NLTK, NER, TF-IDF, Word Embedding with Gensim- Word2vec, FastText, LSTM, RNN, CNN, RAG, LLM
 
-Tools: MS-Excel (Formulas, Pivot Tables), Tableau, Alteryx, Power BI, Jira
+Machine Learning: Linear/Logistic Regression, Decision Tree, Random Forest, Boosted Trees, K-Means, DBSCAN
 
-Data Techniques: Insights, Modelling, Management, Visualization, Transformation, Preparation, Manipulation, Cleaning, Mining
+Tools and Database: Excel, MS-Office, Tableau, Alteryx, Power BI, SharePoint, Jira, Confluence, Airflow, Oracle SQL Server, MySQL, MS SQL Server
 
-Machine Learning: Feature engineering, Classification, Regression, Decision Tree, Random Forest, Boosted Trees (AdaBoost, XGBoost)
+Data Techniques: Collection, Transformation, Preparation, Manipulation, Cleaning, Storytelling, Dashboards, Exploratory Data Analysis
 
-Cloud Tech: Azure (Data Factory, Data Lake, Synapse Analytics, Databricks), A/B Testing (Randomized Design, Matched Pair Design)
+Statistical Techniques: : Statistical Data Analysis, Regression, Classification, A/B Testing, Chi-squared, T-Tests, Hypothesis Testing, Sampling methods, Type 1 & Type 2 Errors
+
+Cloud Tech: MS Azure (Data Factory, Data Lake, Synapse Analytics, Databricks), AWS (Sagemaker, S3, Glue, Athena), Spark, Hadoop
 
 Certifications: MS Azure Data Scientist Associate, Alteryx Designer Core, Predictive Analytics for Business Nanodegree
 
@@ -48,25 +50,26 @@ Bachelor of Engineering in Computer Science & Engineering, Nagpur University
 
 🛠️ Professional Experience:
 
-Collaborated cross-functionally to extract comprehensive healthcare claims data using SQL from Oracle database.
-Preprocessed data with feature engineering, handled missing data, and performed EDA.
-Developed Tableau visualizations for denial rates and fraud detection.
-Built regression models to predict denial claims using Python.
-Led a team in designing automated ETL processes, reducing data wrangling time by 40%.
-Developed predictive models for a new investment fund, resulting in a 12% increase in AUM.
-Boosted data pre-processing efficiency by 60%, assessing KPI metrics and streamlining workflows.
-Leveraged clustering algorithms for customer segmentation, resulting in a 14% increase in sales.
-Conducted A/B testing to validate marketing strategies and presented results through Tableau dashboards.
-Optimized seasonal inventory management, leading to a 22% reduction in stockouts.
-Built an automated ETL pipeline in SQL, saving 400 hours/month of manual report generation work.
-Ensured data integrity through rigorous quality assurance for agile, data-driven financial strategies.
+Engineered an NLP model using LSTM networks for diagnosing mental disorders from patient-generated texts, reducing diagnostic time by 40% for healthcare professionals and improving patient throughput.
+Managed end-to-end ETL data pipeline with HIPAA-compliant data lake solution on Azure Databricks, decreasing manual data processing costs by 30%.
+Directed deployment architecture on Azure Web Apps with CI/CD pipeline, improving system deployment efficiency by 25%.
 
+Investigated imbalanced credit card data for fraud detection, achieving a 90% fraud detection rate with 85% precision and reducing financial losses by 12%.
+Developed an ensembled credit card fraud detection model using autoencoders and XGBoost, contributing to strategic model configuration for cost savings.
+Conducted cost benefit analysis and prepared documentation for model assessment and performance evaluation.
+
+Developed credit risk classification model for personal loan, identifying high default risk customers and enabling loss mitigation.
+Collaborated with cross-functional teams for data analysis and stakeholder requirements.
+
+Conducted RFM analysis and K-means clustering for customer segmentation, resulting in targeted marketing and increased customer retention.
+Designed Tableau dashboards for performance reporting of marketing campaigns.
+
+Managed data extraction, cleaning, and sales forecasting for automobile client, improving forecast accuracy by 8% with Tableau dashboards.
 
 🚀 Projects:
 
-Credit Risk Analysis: Performed EDA and built a predictive model with 68% accuracy.
-
-Credit Card Anomalies Detection: Investigated imbalanced credit card data, built an ensemble model (SMOTE, XGBoost) involving autoencoder for dimensionality reduction and feature extraction, achieving an AUC of 0.92 and F1 score of 0.83.
+Generative AI and LLMs (for a Travel Agency): 
+Developed an advanced custom user PDF based response for a Tourism and Travel, integrating components including Semantic Text Embedding with Sentence Transformer models, Indexing and OpenAI GPT 3.5 Turbo LLM for accurate responses by applying augmentation methods (RAG), including prompt engineering and vector databases such as FAISS, to enhance the system's adaptability and generate diverse and contextually rich answers.
 
 💬 Let's connect! Feel free to reach out for networking, discussions, code reviews and let's explore the possibilities together!
 
